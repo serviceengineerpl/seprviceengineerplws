@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Service Engineer Operations Pte. Ltd, 
+Service Engineer Pte. Ltd, 
 
 
 Feel free to contact us during the timings given below.

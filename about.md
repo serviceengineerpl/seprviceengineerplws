@@ -5,5 +5,5 @@ layout: page
 bodyClass: page-about
 ---
 
-Service Engineer Operations Pte. Ltd. Our aim is to provide global vendors with subcontracted rotating equipment services.
+Service Engineer Pte. Ltd. Our aim is to provide global vendors with subcontracted rotating equipment services.
 We are a team of experienced specialists with a solid technical background in Mechanical, Electrical, Automation and Project Management disciplines.
