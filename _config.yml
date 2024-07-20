@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Service Engineer'
+title: 'Service Engineer Pte. Ltd.'
 
 google_analytics_id: ""
 
@@ -16,11 +16,11 @@ footer:
   copyright_text: ''
 
 seo:
-  meta_og_title: "Service Engineer OÜ"
+  meta_og_title: "Service Engineer Pte. Ltd."
   meta_og_type: "website"
-  meta_og_url: "https://service.engineer"
+  meta_og_url: "https://serviceengineer.sg"
   meta_og_image: ""
-  meta_og_description: "Service Engineer OÜ is EU-company providing field technical services in Russia and the CIS."
+  meta_og_description: "Service Engineer Pte. Ltd. is SG based company providing field technical services in Russia and the CIS."
   meta_twitter_card: "summary"
   meta_twitter_site: ""
   meta_twitter_creator: ""
